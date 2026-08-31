@@ -1698,11 +1698,6 @@
     metro-config "^0.87.0"
     metro-runtime "^0.87.0"
 
-"@react-native/new-app-screen@0.87.0":
-  version "0.87.0"
-  resolved "https://registry.yarnpkg.com/@react-native/new-app-screen/-/new-app-screen-0.87.0.tgz#4cecf84085c8af594804758a1298ddc81241e2f5"
-  integrity sha512-+beQmQ6C0DcRl9E6LjWKxIMrUnopVuJMeTYR9hGin2icYbCG9x/DzuqAYHNP2aXLl7AbpY/+tpIdCHbob2QlKw==
-
 "@react-native/normalize-colors@0.87.0":
   version "0.87.0"
   resolved "https://registry.yarnpkg.com/@react-native/normalize-colors/-/normalize-colors-0.87.0.tgz#38fe072df8eca6ddd31512448eb6baa648c2b57a"
